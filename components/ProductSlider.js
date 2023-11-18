@@ -4,7 +4,7 @@ import Slider from "react-slick";
 import Image from "next/image";
 import { Rupees } from "./svg-components/Rupees";
 import Link from "next/link";
-import { PackagCard } from "./packagCard";
+import { PackagCard } from "./PackagCard";
 import data from "@/Data/All_packages.json";
 
 export const ProductSlider = (props) => {
